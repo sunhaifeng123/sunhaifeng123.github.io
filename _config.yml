@@ -4,7 +4,7 @@ SEOTitle: 孙海峰的博客 | SunHaifeng Blog
 header-img: img/header/2018-08-27-header-09.jpg
 email: haifeng4432@gmail.com
 description: "just do it!"
-keyword: "suhaifeng, suhaifeng Blog, 孙海峰的博客, haifeng, haifengsun, 生物信息学, 生信, bioinfor"
+keyword: "sunhaifeng, sunhaifeng Blog, 孙海峰的博客, haifeng, haifengsun, 生物信息学, 生信, bioinfor"
 url: "http://sunhaifeng123.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/sunhaifeng123/sunhaifeng123.github.io.git" # you code repository
